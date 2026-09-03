@@ -14,7 +14,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=STACK"
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Stack"
     alt="typing"
   />
 
@@ -26,7 +26,10 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,go,cs,python,js,ts,dart" />
 
-<h3>Frameworks & Tools</h3>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Frameworks+&+Tools;"
+    alt="typing"
+  />
 
 <img src="https://skillicons.dev/icons?i=vscode,react,flutter,git,postgres,nodejs" />
 </div>
