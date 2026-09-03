@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=egshH:+in+process_;learning+go_;trying+to+learn+((_"
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=egshH:+in+process;learning+go;trying+to+learn+(("
     alt="typing"
   />
 </p>
