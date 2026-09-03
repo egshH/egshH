@@ -5,6 +5,11 @@
 █▀▄ █▀█ █▄▀ █ █▀█ █ ▀█ █▄▄ ██▄
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1000&pause=500&color=8B949E&width=350&lines=%3E+system+online_;%3E+loading+stack...;%3E+ready_">
+</p>
+
+
 <br>
 
 <div align="center">
