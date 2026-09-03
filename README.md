@@ -9,7 +9,7 @@
 
 <h3>Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,ts,dart" />
+<img src="https://skillicons.dev/icons?i=cpp,go,cs,python,js,ts,dart" />
 
 <h3>Frameworks & Tools</h3>
 
