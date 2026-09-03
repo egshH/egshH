@@ -7,16 +7,22 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=egshH;cpp+%2F+csharp+%2F+python+%2F+sql+%2F+js+%2F+ts+%2F+react+%2F+git+%2F+dart+%2F+flutter;trying+to+study(("
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=egshH:+in+process;learning+go;trying+to+learn+(("
     alt="typing"
   />
 </p>
 
-
 <div align="center">
-<h1>Stack</h1>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=STACK"
+    alt="typing"
+  />
 
-<h3>Languages</h3>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Languages"
+    alt="typing"
+  />
+
 
 <img src="https://skillicons.dev/icons?i=cpp,go,cs,python,js,ts,dart" />
 
