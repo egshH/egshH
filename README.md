@@ -6,11 +6,12 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1000&pause=500&color=8B949E&width=350&lines=%3E+system+online_;%3E+loading+stack...;%3E+ready_">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=egshH;cpp+%2F+csharp+%2F+python+%2F+sql+%2F+js+%2F+ts+%2F+react+%2F+git+%2F+dart+%2F+flutter;trying+to+study(("
+    alt="typing"
+  />
 </p>
 
-
-<br>
 
 <div align="center">
 <h1>Stack</h1>
