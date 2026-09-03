@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=egshH:+in+process;learning+go;trying+to+learn+(("
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=egshH:+in+process_;learning+go_;trying+to+learn+((_"
     alt="typing"
   />
 </p>
@@ -20,7 +20,7 @@
   />
 -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Languages_;"
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Languages;"
     alt="typing"
   />
 
@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,go,cs,python,js,ts,dart" />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Frameworks+%26+Tools_;"
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Frameworks+%26+Tools;"
     alt="typing"
   />
 
