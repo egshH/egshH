@@ -13,11 +13,12 @@
 </p>
 
 <div align="center">
+<!--
   <img
     src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Stack"
     alt="typing"
   />
-
+-->
   <img
     src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Languages"
     alt="typing"
